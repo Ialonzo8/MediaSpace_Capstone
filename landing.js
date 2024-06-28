@@ -23,7 +23,7 @@ loginForm.onsubmit = function (event) {
     // Disables the button after the form has been submitted already:
     loginForm.loginButton.disabled = true;
 
-    // Time to actually process the login using the function from auth.js!
+    // Time to actually process the login using the function from auth.js to see if it works
     login(loginData);
 };
 

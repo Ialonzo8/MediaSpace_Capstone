@@ -1,14 +1,11 @@
-/* Global CSS for all pages */
+/* Global CSS*/
 
 * {
-    /* Sizing helper: See Workbook 1b, page 2-33. */
+    /* helped with size ratio */
     box-sizing: border-box;
 
     /* 
-       Vizualization helper: While styling or debugging your HTML & CSS, 
-       uncomment the rule below to see all the boxes on your page more
-       clearly! (Remove this outline before submitting: users won't 
-       want to see it!)
+       css
     */
     /* outline: 1px dotted red; */
 }
