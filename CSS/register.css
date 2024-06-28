@@ -1,0 +1,7 @@
+
+body {
+    background-color: black;
+    margin-bottom: 100px;
+    /* bottom = footer height */
+    padding: 100px;
+}
